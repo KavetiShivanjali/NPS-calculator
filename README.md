@@ -44,7 +44,9 @@ Some insights which can be drawn from the NPS.
 
 
 Here is the link for the streamlit application which was developed to calculate NPS.
+
 https://nps-calculator.onrender.com/
+
 All you need to provide a text file with only ratings as shown in the sample.txt file.
 
 ![NPS-2](https://user-images.githubusercontent.com/30626886/230366258-43f33fa0-c6d9-4710-8a1d-077ce04910aa.jpg)
